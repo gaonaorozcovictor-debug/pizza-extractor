@@ -1,0 +1,34 @@
+{
+  "order_list": [
+    {
+      "pizza_order": "Yeah, hi, I'd like to order a large pepperoni pizza with extra cheese and can you make sure the crust is extra crispy? And throw in an order of garlic knots too."
+    },
+    {
+      "pizza_order": "Um, yeah, I need two medium pizzas. One with just cheese and mushrooms, and the other one with sausage, peppers, and onions. Oh, and can I get that on thin crust?"
+    },
+    {
+      "pizza_order": "Hi, can I get a large Hawaiian pizza? You know, with the pineapple and ham? And make it well done please. Also add a two-liter bottle of Coke."
+    },
+    {
+      "pizza_order": "Okay so I want a small veggie pizza with like, everything - peppers, mushrooms, olives, tomatoes, spinach, the works. And can you add some feta cheese on there? Oh, and a Caesar salad too."
+    },
+    {
+      "pizza_order": "Yeah, I'd like three large pizzas. One meat lovers with pepperoni, sausage, and bacon. One just plain cheese. And one with like, half pepperoni and half vegetarian if that's cool. And can you throw in some wings? Buffalo sauce."
+    },
+    {
+      "pizza_order": "Um, do you guys have a white pizza? Yeah? Awesome. Can I get a large white pizza with spinach and ricotta? And make the crust stuffed crust if you have it. And I'll take some mozzarella sticks on the side."
+    },
+    {
+      "pizza_order": "Hi, I need a medium pizza with just pepperoni, but like, a LOT of pepperoni, okay? Like cover the whole thing. And can I get it delivered to 42 Oak Street? And also some ranch dip."
+    },
+    {
+      "pizza_order": "Alright, so I want a large pizza with chicken, BBQ sauce instead of regular sauce, red onions, and cilantro. Oh, and can you make sure there's no garlic on it? I'm allergic. And throw in some breadsticks."
+    },
+    {
+      "pizza_order": "Yeah, can I order two small pizzas? One with just cheese and the other with pepperoni and jalapeños. And can you make them both well done? Also, I'd like a side of your hot sauce if you have it."
+    },
+    {
+      "pizza_order": "Hi, I'd like a large pizza with, um, let me think... prosciutto, arugula, fresh mozzarella, and like a drizzle of balsamic on top? And can I get that on a thin crust? And maybe some tiramisu for dessert if you have it."
+    }
+  ]
+}
